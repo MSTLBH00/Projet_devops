@@ -1,0 +1,5 @@
+enum Taille { S, M, L }
+enum Garniture { OLIVES, CHAMPIGNONS, PEPPERONI, POIVRONS }
+enum StatutCommande { CREEE, EN_PREPARATION, EN_ROUTE, LIVREE, ECHEC }
+enum CauseEchec { MAUVAISE_ADRESSE, CHAT_VOLE_PIZZA, INACCESSIBLE }
+enum TypeObstacle { CHAT, CONE }
