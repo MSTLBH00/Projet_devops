@@ -1,6 +1,6 @@
 
 
-public class Main {
+public class Main { 
     public static void main(String[] args) {
         Carte carte = new Carte(10, 10);
         carte.ajouterObstacle(3,3);
@@ -25,4 +25,5 @@ public class Main {
             System.out.println("ECHEC (" + e.getCauseEchec() + ") : " + e.getMessage());
         }
     }
-}
+} 
+\\ Bonjour , cette modification pour TP Git et Github 
